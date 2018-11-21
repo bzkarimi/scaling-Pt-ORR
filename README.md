@@ -1,7 +1,7 @@
 # Scaling relationship for Pt clusters in ORR
 
 1. Contains all global minimum structures obtained from PBE and PBE0 calculations
-2. PBE and PBE0 energies can also be found on the comment line of xyz files
+2. Gas phase PBE and PBE0 energies can also be found on the comment line of xyz files
 
 Gas phase cell: 20 A x 20 A x 20 A
 
