@@ -1,4 +1,4 @@
-# Scaling relationship for Pt clusters in ORR
+# Scaling Relationships in ORR Catalyzed by Pt Clusters
 
 1. Contains all global minimum structures obtained from PBE and PBE0 calculations
 2. Gas phase PBE and PBE0 energies (in hartree) can also be found on the comment line of xyz files
@@ -19,4 +19,4 @@ Pt(OOH)2, Pt2(OOH)2, Pt3(OOH)2, Pt4(OOH)2, Pt5(OOH)2, Pt6(OOH)2
 Graphene-deposited structures:
 Pt5/C72, Pt5O/C72, Pt5OH/C72, Pt5OOH/C72, Pt5O2/C72, Pt5(OH)2/C72, Pt5(OOH)2/C72
 
-Publication: Zandkarimi, B.; Alexandrova, A. N. "Dynamics of Subnanometer Pt Clusters Can Break the Scaling Relationships in Catalysis." J. Phys. Chem. Lett. 2019, 10, 3, 460–467. https://doi.org/10.1021/acs.jpclett.8b03680
+Publication: Zandkarimi, B.; Alexandrova, A. N. "Dynamics of Subnanometer Pt Clusters Can Break the Scaling Relationships in Catalysis." J. Phys. Chem. Lett. **2019**, *10*, 460–467. https://doi.org/10.1021/acs.jpclett.8b03680
