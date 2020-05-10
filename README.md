@@ -3,9 +3,9 @@
 * Contains all global minimum structures obtained from PBE and PBE0 calculations
 * Gas phase PBE and PBE0 energies (in hartree) can also be found on the comment line of xyz files
 
-Gas phase cell: 20 &angst x 20 &angst x 20 &angst
+Gas phase cell: 20 &angst; x 20 &angst; x 20 &angst;
 
-Surface-dopsited supercell: 14.76 &angst x 14.76 &angst x 20 &angst, 90, 90, 120
+Surface-dopsited supercell: 14.76 &angst; x 14.76 &angst; x 20 &angst;, 90, 90, 120
 
 Gas phase strucutres:
 Pt, Pt<sub>2</sub>, Pt<sub>3</sub>, Pt<sub>4</sub>, Pt<sub>5</sub>, Pt<sub>6</sub>,
