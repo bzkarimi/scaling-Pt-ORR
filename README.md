@@ -8,15 +8,15 @@ Gas phase cell: 20 A x 20 A x 20 A
 Surface-dopsited supercell: 14.76 A x 14.76 A x 20 A, 90, 90, 120
 
 Gas phase strucutres:
-Pt, Pt2, Pt3, Pt4, Pt5, Pt6,
-PtO, Pt2O, Pt3O, Pt4O, Pt5O, Pt6O,
-PtOH, Pt2OH, Pt3OH, Pt4OH, Pt5OH, Pt6OH,
-PtOOH, Pt2OOH, Pt3OOH, Pt4OOH, Pt5OOH, Pt6OOH,
-PtO2, Pt2O2, Pt3O2, Pt4O2, Pt5O2, Pt6O2, 
-Pt(OH)2, Pt2(OH)2, Pt3(OH)2, Pt4(OH)2, Pt5(OH)2, Pt6(OH)2,
-Pt(OOH)2, Pt2(OOH)2, Pt3(OOH)2, Pt4(OOH)2, Pt5(OOH)2, Pt6(OOH)2
+Pt, Pt<sub>2</sub>, Pt<sub>3</sub>, Pt<sub>4</sub>, Pt<sub>5</sub>, Pt<sub>6</sub>,
+PtO, Pt<sub>2</sub>O, Pt<sub>3</sub>O, Pt<sub>4</sub>O, Pt<sub>5</sub>O, Pt<sub>6</sub>O,
+PtOH, Pt<sub>2</sub>OH, Pt<sub>3</sub>OH, Pt<sub>4</sub>OH, Pt<sub>5</sub>OH, Pt<sub>6</sub>OH,
+PtOOH, Pt<sub>2</sub>OOH, Pt<sub>3</sub>OOH, Pt<sub>4</sub>OOH, Pt<sub>5</sub>OOH, Pt<sub>6</sub>OOH,
+PtO<sub>2</sub>, Pt<sub>2</sub>O<sub>2</sub>, Pt<sub>3</sub>O<sub>2</sub>, Pt<sub>4</sub>O<sub>2</sub>, Pt<sub>5</sub>O<sub>2</sub>, Pt<sub>6</sub>O<sub>2</sub>, 
+Pt(OH)<sub>2</sub>, Pt<sub>2</sub>(OH)<sub>2</sub>, Pt<sub>3</sub>(OH)<sub>2</sub>, Pt<sub>4</sub>(OH)<sub>2</sub>, Pt<sub>5</sub>(OH)<sub>2</sub>, Pt<sub>6</sub>(OH)<sub>2</sub>,
+Pt(OOH)<sub>2</sub>, Pt<sub>2</sub>(OOH)<sub>2</sub>, Pt<sub>3</sub>(OOH)<sub>2</sub>, Pt<sub>4</sub>(OOH)<sub>2</sub>, Pt<sub>5</sub>(OOH)<sub>2</sub>, Pt<sub>6</sub>(OOH)<sub>2</sub>
 
 Graphene-deposited structures:
-Pt5/C72, Pt5O/C72, Pt5OH/C72, Pt5OOH/C72, Pt5O2/C72, Pt5(OH)2/C72, Pt5(OOH)2/C72
+Pt<sub>5</sub>/C<sub>72</sub>, Pt<sub>5</sub>O/C<sub>72</sub>, Pt<sub>5</sub>OH/C<sub>72</sub>, Pt<sub>5</sub>OOH/C<sub>72</sub>, Pt<sub>5</sub>O<sub>2</sub>/C<sub>72</sub>, Pt<sub>5</sub>(OH)<sub>2</sub>/C<sub>72</sub>, Pt<sub>5</sub>(OOH)<sub>2</sub>/C<sub>72</sub>
 
 **Publication**: Zandkarimi, B.; Alexandrova, A. N. "Dynamics of Subnanometer Pt Clusters Can Break the Scaling Relationships in Catalysis." J. Phys. Chem. Lett. **2019**, *10*, 460–467. https://doi.org/10.1021/acs.jpclett.8b03680
